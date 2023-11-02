@@ -98,8 +98,6 @@ You can follow these instructions to run the notebook and explore the models:
 
 These scores represent the highest achieved by each model after hyperparameter tuning. It's important to note that hyperparameter tuning significantly improved the performance of each model compared to the baseline metrics.
 
-These scores represent the highest achieved by each model after hyperparameter tuning. It's important to note that hyperparameter tuning significantly improved the performance of each model compared to the baseline metrics
-
 ## Requirements
 
 - Python 3.7 or higher
